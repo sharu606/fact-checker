@@ -28,7 +28,6 @@ The dataset can be downloaded from [LIAR Dataset](https://www.cs.ucsb.edu/~willi
 ### 3. Model Evaluation
 - Predicted truthfulness labels on the validation set.
 - Calculated `accuracy_score` and `classification_report` from `sklearn`.
-- Noted a classification accuracy of approximately **27.88%**, with varying precision and recall across labels.
 
 ### 4. Command-Line Interface (CLI)
 - Implemented a simple CLI where users can input a claim.
